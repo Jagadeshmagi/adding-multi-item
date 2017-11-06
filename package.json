@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "antd": "^2.13.9",
+    "joi-browser": "^13.0.1",
+    "moment": "^2.19.1",
     "react": "^16.0.0",
+    "react-bootstrap": "^0.31.5",
     "react-dom": "^16.0.0"
   },
   "devDependencies": {
